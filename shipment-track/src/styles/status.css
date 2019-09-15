@@ -1,0 +1,12 @@
+.new, .active, .completed{
+    color: white;
+    padding: 4px 8px;
+}
+
+.new{
+    background-color: grey;
+} .active{
+    background-color: #007bff;
+} .completed{
+    background-color: #1DA57A;
+}
